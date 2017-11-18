@@ -1,0 +1,14 @@
+body{
+    background-color: #fff;
+}
+#marginTF{
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+p{
+    color:#333;
+}
+.is-fixed .mint-header-title{
+    font-size: 18px;
+    font-weight: 700;
+}
